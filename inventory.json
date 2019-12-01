@@ -1,0 +1,10 @@
+{
+    "title": "Inventory v1.0",
+    "items": [
+        {
+            "id": "ee64",
+            "name": "Dell R620",
+            "contents": "this is the inventory tag"
+        }
+    ]
+}
