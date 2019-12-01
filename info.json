@@ -1,0 +1,13 @@
+{
+    "project": [
+        {
+            "author": "Michael Peters",
+            "projectName": "InventoryManagerCLI",
+            "version": "0.0.1",
+            "description": "This is a command line inventory manager for keeping track of items in my posession",
+            "longDescription": "This CLI interface helps to keep track of the items that I have, computers, cameras, etc.",
+            "githubLink": "https://github.com/michaelpeterswa/InventoryManagerCLI",
+            "date": "11.30.2019"
+        }
+    ]
+}
